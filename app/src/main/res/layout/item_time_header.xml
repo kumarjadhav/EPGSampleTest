@@ -8,6 +8,7 @@
 
         <TextView
             android:id="@+id/tvTime"
+            style="@style/text_view_style_bold"
             android:text="TextView"
             android:layout_width="100dp"
             android:layout_height="40dp"

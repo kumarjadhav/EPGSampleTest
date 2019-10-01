@@ -17,6 +17,7 @@
 
         <TextView
             android:id="@+id/tvDate"
+            style="@style/text_view_style_bold"
             android:layout_width="100dp"
             android:layout_height="40dp"
             android:text="Date"
