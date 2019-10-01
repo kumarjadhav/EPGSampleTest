@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EPGSample</string>
+    <string name="live_show">Live Show</string>
+</resources>

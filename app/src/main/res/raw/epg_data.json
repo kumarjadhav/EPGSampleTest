@@ -1,0 +1,5630 @@
+[
+  {
+    "id": "1",
+    "channelName": "Sony",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Star Plus",
+    "channelLogo": "https://image3.mouthshut.com/images/imagesp/925002088s.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Discovery",
+    "channelLogo": "http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-earth-logo.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Discovery",
+    "channelLogo": "http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-earth-logo.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Sony",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Star Plus",
+    "channelLogo": "https://image3.mouthshut.com/images/imagesp/925002088s.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Discovery",
+    "channelLogo": "http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-earth-logo.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Discovery",
+    "channelLogo": "http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-earth-logo.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Sony",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Star Plus",
+    "channelLogo": "https://image3.mouthshut.com/images/imagesp/925002088s.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Discovery",
+    "channelLogo": "http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-earth-logo.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Discovery",
+    "channelLogo": "http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-earth-logo.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Sony",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Aladin",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://d36mpatsggudpt.cloudfront.net/assets/images/Show-Page-Details-Front-Image-alaadin.png"
+      },
+      {
+        "id": "1",
+        "showName": "Bhakarwadi",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/kOMaaWi9yYw/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Partners",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uumdEaO69GhF_eSI_um5ntgcif1vydpuzbWL_Mdpm3NWfJ8VGQ"
+      },
+      {
+        "id": "1",
+        "showName": "Tarak Mehta ka oolta chashma",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/Tmkoc.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Star Plus",
+    "channelLogo": "https://image3.mouthshut.com/images/imagesp/925002088s.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      },
+      {
+        "id": "1",
+        "showName": "SaraswatiChandra",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/e8/b4/18/e8b4184fc866792fd818226cb2ffaf39.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "The Voice",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.dekhnews.com/entertainment/wp-content/uploads/2019/04/The-Voice-2019-Final-Contestants-list-Schedule-Live-Episode-on-Star-Plus.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Dhai Kilo Prem",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.skymedia.co.uk/wp-content/uploads/2016/01/DKP_2_x_1-1024x512.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Ishqbaaz",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.filmibeat.com/img/2018/02/ishqbaaz-1517551417.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Mere Angne Mai",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzphzWLCzWv32NKHv0qD5leWFFXT8oHpmHtE1XdfHCu3FBiIO9"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Discovery",
+    "channelLogo": "http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-earth-logo.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "channelName": "Discovery",
+    "channelLogo": "http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-earth-logo.png",
+    "showList": [
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      },
+      {
+        "id": "1",
+        "showName": "Alaska The Last Frontier",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.pinimg.com/originals/0a/8a/48/0a8a48f6df0b270df274a856f6190bb4.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Man Vs Wild",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91hDYmJAofL._RI_.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Fear the Neighbor",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://www.discovery.ca/get-bm-attachment/636875539521861726/4a4221bd-1f6f-4096-9246-27734df72c5e"
+      },
+      {
+        "id": "1",
+        "showName": "Naked Afraid",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://i.ytimg.com/vi/HRezA6w8WYE/maxresdefault.jpg"
+      },
+      {
+        "id": "1",
+        "showName": "Discovery of Witches",
+        "startTime": "20:30",
+        "endTime": "21:00",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/A_Discovery_of_Witches_%28TV_series%29.png/250px-A_Discovery_of_Witches_%28TV_series%29.png"
+      }
+    ]
+  }
+]
