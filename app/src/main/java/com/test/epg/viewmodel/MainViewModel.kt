@@ -66,7 +66,7 @@ public class MainViewModel(application: Application) : AndroidViewModel(applicat
         calendar.time
 
         var arrayListTime = arrayListOf<Long>()
-        for (i in 0..47) {
+        for (i in 0..48) {
             arrayListTime.add(calendar.timeInMillis)
             calendar.add(Calendar.MINUTE, 30)
         }

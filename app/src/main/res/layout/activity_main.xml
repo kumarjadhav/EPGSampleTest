@@ -42,7 +42,7 @@
 
                 <androidx.recyclerview.widget.RecyclerView
                     android:id="@+id/timeHeader"
-                    android:layout_width="4800dp"
+                    android:layout_width="4944dp"
                     android:layout_height="40dp"
                     android:scrollbars="none" />
             </LinearLayout>
@@ -84,7 +84,7 @@
 
                     <androidx.recyclerview.widget.RecyclerView
                         android:id="@+id/tableD"
-                        android:layout_width="4800dp"
+                        android:layout_width="4944dp"
                         android:layout_height="wrap_content"
                         android:nestedScrollingEnabled="true" />
 

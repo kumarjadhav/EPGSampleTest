@@ -13,6 +13,8 @@ import java.text.ParseException
 import kotlin.math.roundToInt
 
 
+
+
 fun getProgressDrawable(context: Context): CircularProgressDrawable {
     return CircularProgressDrawable(context).apply {
         strokeWidth = 10f
