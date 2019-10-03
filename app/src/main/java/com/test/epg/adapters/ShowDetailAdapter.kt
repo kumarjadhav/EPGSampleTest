@@ -10,18 +10,27 @@ import androidx.recyclerview.widget.RecyclerView
 import com.test.epg.R
 import com.test.epg.databinding.ItemShowDetailsBinding
 import com.test.epg.model.ChannelShowModel
+import com.test.epg.util.getDate
+import java.util.*
+import kotlin.collections.ArrayList
 
 class ShowDetailAdapter(
     val channelShowModel: ArrayList<ChannelShowModel>,
+    var currentSelectedDate: Calendar,
     var currentShowPosition: Int
 ) :
     RecyclerView.Adapter<ShowDetailAdapter.ShowDetailViewHolder>() {
 
 
-    fun updateData(channelShowModel: ArrayList<ChannelShowModel>, currentShowPosition: Int) {
+    fun updateData(
+        channelShowModel: ArrayList<ChannelShowModel>,
+        currentSelectedDate: Calendar,
+        currentShowPosition: Int
+    ) {
         this.channelShowModel.clear()
         this.channelShowModel.addAll(channelShowModel)
         this.currentShowPosition = currentShowPosition
+        this.currentSelectedDate = currentSelectedDate
         notifyDataSetChanged()
     }
 
@@ -43,14 +52,27 @@ class ShowDetailAdapter(
 
         holder.view.showInfo = channelShowModel[position]
 
-        if (position == this.currentShowPosition) {
-            holder.view.tvChannelName.setTextColor(
-                ContextCompat.getColor(
-                    holder.view.tvChannelName.context,
-                    R.color.colorAccent
+        var currentDate = getDate(Calendar.getInstance().timeInMillis, "dd/MMM/yyyy")
+        val currentSelectedDateString = getDate(currentSelectedDate.timeInMillis, "dd/MMM/yyyy")
+
+        if (currentDate.equals(currentSelectedDateString)) {
+            if (position == this.currentShowPosition) {
+                holder.view.tvChannelName.setTextColor(
+                    ContextCompat.getColor(
+                        holder.view.tvChannelName.context,
+                        R.color.colorAccent
+                    )
                 )
-            )
-            holder.view.verticalLine.visibility = VISIBLE
+                holder.view.verticalLine.visibility = VISIBLE
+            } else {
+                holder.view.tvChannelName.setTextColor(
+                    ContextCompat.getColor(
+                        holder.view.tvChannelName.context,
+                        R.color.black
+                    )
+                )
+                holder.view.verticalLine.visibility = GONE
+            }
         } else {
             holder.view.tvChannelName.setTextColor(
                 ContextCompat.getColor(
@@ -60,6 +82,7 @@ class ShowDetailAdapter(
             )
             holder.view.verticalLine.visibility = GONE
         }
+
 
         /*holder.view.verticalLine.visibility =
             if (position == this.currentShowPosition) VISIBLE else GONE*/

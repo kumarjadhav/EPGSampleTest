@@ -10,17 +10,19 @@ import com.test.epg.R
 import com.test.epg.databinding.ItemChannelDetailRowBinding
 import com.test.epg.model.EPGModel
 import android.content.Context
+import java.util.*
+import kotlin.collections.ArrayList
 
 
 class ChannelDetailRowAdapter(
     var epgModel: ArrayList<EPGModel>,
-    var date: String,
+    var date: Calendar,
     var currentShowPosition: Int
 ) :
     RecyclerView.Adapter<ChannelDetailRowAdapter.ChannelDetailViewHolder>() {
 
 
-    fun updateData(epgModel: List<EPGModel>, date: String, currentShowPosition: Int) {
+    fun updateData(epgModel: List<EPGModel>, date: Calendar, currentShowPosition: Int) {
         this.epgModel.clear()
         this.epgModel.addAll(epgModel)
         this.date = date
@@ -45,7 +47,7 @@ class ChannelDetailRowAdapter(
     override fun onBindViewHolder(holder: ChannelDetailViewHolder, position: Int) {
 
         val showDetailsAdapter =
-            ShowDetailAdapter(arrayListOf(), currentShowPosition)
+            ShowDetailAdapter(arrayListOf(), date, currentShowPosition)
 
         holder.view.recyclerViewRow.apply {
 
@@ -58,7 +60,7 @@ class ChannelDetailRowAdapter(
             adapter = showDetailsAdapter
 
             epgModel.get(position).showsList?.let {
-                showDetailsAdapter.updateData(it, currentShowPosition)
+                showDetailsAdapter.updateData(it, date, currentShowPosition)
             }
 
             ViewCompat.setNestedScrollingEnabled(holder.view.recyclerViewRow, false)

@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
     private val showAdapter = ChannelInfoAdapter(arrayListOf())
     private val channelDetailRowAdapter =
-        ChannelDetailRowAdapter(arrayListOf(), "", 0)
+        ChannelDetailRowAdapter(arrayListOf(), Calendar.getInstance(), 0)
     private val timeHeaderAdapter = TimeHeaderAdapter(arrayListOf())
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -59,10 +59,20 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun scrollToCurrentShow() {
-        var currentRunningShowPosition =
-            convertDpToPx(tableD.context, 100f) * viewModel.currentShowPosition.value!!
-        horizontalScrollView.smoothScrollTo(currentRunningShowPosition, 0)
-        horizontalHeaderScrollView.smoothScrollTo(currentRunningShowPosition, 0)
+        var currentDate = getDate(Calendar.getInstance().timeInMillis, "dd/MMM/yyyy")
+        val currentSelectedDateString =
+            getDate(viewModel.calendarSelectedDate.value!!.timeInMillis, "dd/MMM/yyyy")
+
+        if (currentDate.equals(currentSelectedDateString)) {
+            var currentRunningShowPosition =
+                convertDpToPx(tableD.context, 100f) * viewModel.currentShowPosition.value!!
+            horizontalScrollView.smoothScrollTo(currentRunningShowPosition, 0)
+            horizontalHeaderScrollView.smoothScrollTo(currentRunningShowPosition, 0)
+        } else {
+            horizontalScrollView.smoothScrollTo(0, 0)
+            horizontalHeaderScrollView.smoothScrollTo(0, 0)
+        }
+
 
     }
 
@@ -102,7 +112,7 @@ class MainActivity : AppCompatActivity() {
             epgModel?.let {
                 showAdapter.updateData(epgModel)
                 channelDetailRowAdapter.updateData(
-                    epgModel, "", 0
+                    epgModel, viewModel.calendarSelectedDate.value!!, 0
                 )
                 viewModel.currentRunningShowPosition(viewModel.timeMutableLiveData.value!!)
             }
@@ -116,12 +126,14 @@ class MainActivity : AppCompatActivity() {
 
         viewModel.currentShowPosition.observe(this, Observer { currentPosition ->
             channelDetailRowAdapter.updateData(
-                viewModel.epgModel.value!!, "",
+                viewModel.epgModel.value!!, viewModel.calendarSelectedDate.value!!,
                 viewModel.currentShowPosition.value!!
             )
+
             Timer("ScrollingToCurrentShow", false).schedule(5000) {
                 scrollToCurrentShow()
             }
+
         })
 
         viewModel.calendarSelectedDate.observe(this, Observer { calendar ->
